@@ -8,7 +8,7 @@ Els meus estudis de DAM els vaig fer a l'Institut Nicolau Copèrnic
 
 
 Els mòduls que he fet són:
-- [M01: Sistemes Informàtics](https://github.com/robertoferrero/Portfoli/tree/main/Moduls/GS/M01-SistemesInformatics)
+- [M01: Sistemes Informàtics](https://github.com/juanfcomartin/Portfoli/tree/main/Moduls/GS/M01-SistemesInformatics)
 - M02: Bases de dades
 - M03: Programació
 - M04: Llenguatges de marques
